@@ -1,14 +1,5 @@
 var cmm = '12345678';
 var raw = 0;
-var n1 = 0;
-var n2 = 0;
-var n3 = 0;
-var n4 = 0;
-var n5 = 0;
-var n6 = 0;
-var n7 = 0;
-var n8 = 0;
-var n9 = 0;
 var m = '100m';
 var id = window.location.href.split('?')[1] || 'UCzFJ9ZkjYpxWTSqX9cVXj4g'
 var url = 'https://v6.mixerno.space/api/youtube-channel-counter/user/'
