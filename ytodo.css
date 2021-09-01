@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+#main{
+    text-align: center;
+    width: 100%:
+}
+
+#odo1a,#odo2a,#odo3a,#odo4a,#odo5a,#odo6a,#odo7a,#odo8a,#odo9a{
+    color: white;
+    font-family: Roboto;
+    font-size: 150px;
+    display: inline-block;
+}
+
+#comma1a, #comma2a{
+    color: white;
+    font-family: Roboto;
+    font-size: 150px;
+    display: inline-block;
+    vertical-align: bottom;
+}
